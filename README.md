@@ -1,4 +1,4 @@
-<img width="681" height="793" alt="image" src="https://github.com/user-attachments/assets/47304f92-7e39-4308-9081-07826afb473c" /># Portfolio Website 🎨
+# Portfolio Website 🎨
 
 An open-source portfolio website showcasing my graphic design works.  
 This project serves as my personal gallery where I highlight my skills, creativity, and experience in graphic design.
