@@ -4,7 +4,7 @@
   "description": "Personal portfolio website",
   "main": "index.html",
   "scripts": {
-    "start": "serve -s . -l 3000",
+    "start": "node server.js",
     "build": "echo 'Build completed successfully'",
     "dev": "live-server --port=3000",
     "preview": "serve -s . -l 3000"
